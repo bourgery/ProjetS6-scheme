@@ -1,0 +1,1 @@
+("6.3" ("79a423029ed5ee76702497b5bc5a9ebb2c70b74d" . "2465e653b5eef5d1fd943aa9782ecdd9bc24bf30") #"/Users/yoann/Lessons/s6-codegen-1974/Test/../Trunk/comptage_registre.rkt" (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
